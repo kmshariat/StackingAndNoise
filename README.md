@@ -1,1 +1,2 @@
-# StackingAndNoise
+# Increasing SNR of Periodic Signals via Stacking Method
+Noise signals can distort main signals and interfere with the main signal causing information loss. Recent technologies are being invented to reduce the noise hence increasing the Signal-to-Noise Ratio (`SNR`). Our study methods apply stacking the distorted signal again and again. Stacking the periodic signal again and again will cause the main signal to increase in amplitude according to superposition theorem. The random noise will reduce applying the same theorem. 
